@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectOne", "ProjectOne\ProjectOne.csproj", "{457646EB-4122-4B3F-AF7C-C5D6CD7AB92C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTwo", "..\..\NugetHickory\ProjectTwo\ProjectTwo\ProjectTwo.csproj", "{F156B7F2-BAC9-4FCB-9279-46067B892512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectFour", "ProjectFour\ProjectFour.csproj", "{5C292A88-50C2-48EF-86A9-9ACE341780B9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tsitfs:8080/tfs/tsi%20technology
+		SccProjectUniqueName0 = ProjectOne\\ProjectOne.csproj
+		SccProjectName0 = ProjectOne
+		SccLocalPath0 = ProjectOne
+		SccProjectUniqueName1 = ..\\..\\NugetHickory\\ProjectTwo\\ProjectTwo\\ProjectTwo.csproj
+		SccProjectName1 = ../../NugetHickory/ProjectTwo/ProjectTwo
+		SccLocalPath1 = ..\\..\\NugetHickory\\ProjectTwo\\ProjectTwo
+		SccLocalPath2 = .
+		SccProjectUniqueName3 = ProjectFour\\ProjectFour.csproj
+		SccProjectName3 = ProjectFour
+		SccLocalPath3 = ProjectFour
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457646EB-4122-4B3F-AF7C-C5D6CD7AB92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457646EB-4122-4B3F-AF7C-C5D6CD7AB92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457646EB-4122-4B3F-AF7C-C5D6CD7AB92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457646EB-4122-4B3F-AF7C-C5D6CD7AB92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F156B7F2-BAC9-4FCB-9279-46067B892512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F156B7F2-BAC9-4FCB-9279-46067B892512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F156B7F2-BAC9-4FCB-9279-46067B892512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F156B7F2-BAC9-4FCB-9279-46067B892512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C292A88-50C2-48EF-86A9-9ACE341780B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C292A88-50C2-48EF-86A9-9ACE341780B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C292A88-50C2-48EF-86A9-9ACE341780B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C292A88-50C2-48EF-86A9-9ACE341780B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
